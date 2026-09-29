@@ -1,0 +1,6 @@
+{
+  "name": "MungMate",
+  "description": "MungMate is a hope-first companion dog matchmaking platform with intelligent personality matchmaking and compassionate adoption anxiety reframing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
